@@ -1,6 +1,5 @@
 package org.smilead.swordoffer.problem050;
 
-import java.util.HashMap;
 import java.util.HashSet;
 
 public class Problem050 {
